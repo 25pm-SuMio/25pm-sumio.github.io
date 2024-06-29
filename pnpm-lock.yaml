@@ -33,6 +33,9 @@ importers:
       '@fontsource/roboto':
         specifier: ^5.0.13
         version: 5.0.13
+      '@iconify-json/bx':
+        specifier: ^1.1.10
+        version: 1.1.10
       '@swup/astro':
         specifier: ^1.4.1
         version: 1.4.1(@types/babel__core@7.20.5)
@@ -1082,6 +1085,9 @@ packages:
 
   '@fontsource/roboto@5.0.13':
     resolution: {integrity: sha512-j61DHjsdUCKMXSdNLTOxcG701FWnF0jcqNNQi2iPCDxU8seN/sMxeh62dC++UiagCWq9ghTypX+Pcy7kX+QOeQ==}
+
+  '@iconify-json/bx@1.1.10':
+    resolution: {integrity: sha512-4JzMDYhs/hkU9mO8nNMNKZwHn706oQaD46URyUuD4fP/XAWGf01vg6wKITmQseEHsHDrtKAXjwcumfnTUDi3OQ==}
 
   '@iconify-json/fa6-brands@1.1.19':
     resolution: {integrity: sha512-3Dl0D1gtFwIj7/GT2xJbkM9D/LjuozsgfLrqRWP6B5xuajtsyEvR1wD0Z06y3iaNtASpgWPWyYbml+AHQ3Hw0g==}
@@ -5801,6 +5807,10 @@ snapshots:
   '@fontsource-variable/jetbrains-mono@5.0.21': {}
 
   '@fontsource/roboto@5.0.13': {}
+
+  '@iconify-json/bx@1.1.10':
+    dependencies:
+      '@iconify/types': 2.0.0
 
   '@iconify-json/fa6-brands@1.1.19':
     dependencies:

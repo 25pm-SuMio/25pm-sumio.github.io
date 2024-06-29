@@ -48,13 +48,6 @@ export const profileConfig: ProfileConfig = {
   bio: '25P.M.Lab',
   links: [
     {
-      name: 'Twitter',
-      icon: 'fa6-brands:twitter', // Visit https://icones.js.org/ for icon codes
-      // You will need to install the corresponding icon set if it's not already included
-      // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://twitter.com',
-    },
-    {
       name: 'Bilibili',
       icon: 'fa6-brands:bilibili',
       url: 'https://space.bilibili.com/5140781',
@@ -63,6 +56,13 @@ export const profileConfig: ProfileConfig = {
       name: 'GitHub',
       icon: 'fa6-brands:github',
       url: 'https://github.com/SrcVme50',
+    },
+    {
+      name: 'HackTheBox',
+      icon: 'bx:cube', // Visit https://icones.js.org/ for icon codes
+      // You will need to install the corresponding icon set if it's not already included
+      // `pnpm add @iconify-json/<icon-set-name>`
+      url: 'https://app.hackthebox.com/users/1735574',
     },
   ],
 }
