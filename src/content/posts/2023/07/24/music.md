@@ -1,7 +1,7 @@
 ---
 title: HIMEHINA 田中姬铃木雏
 published: 2023-07-24
-description: '关注姬雏喵, 关注姬雏谢谢喵'
+description: '关注HIMEHINA喵, 关注HIMEHINA谢谢喵'
 image: ''
 tags: [MusicVideo, HIMEHINA]
 category: 'MusicVideo'
