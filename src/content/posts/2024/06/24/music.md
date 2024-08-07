@@ -1,7 +1,7 @@
 ---
 title: Girls Band Cry
 published: 2024-06-24
-description: '一些自己喜欢的哭泣少女乐队MV'
+description: '一些喜欢的哭泣少女乐队MV'
 image: ''
 tags: [GirlsBandCry, GBC, MusicVideo]
 category: 'MusicVideo'
