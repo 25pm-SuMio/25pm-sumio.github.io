@@ -8,7 +8,7 @@ import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
   title: 'SuMio',
-  subtitle: 'Cyber Cofe',
+  subtitle: 'Cyber Bar',
   lang: 'en', // 'en', 'zh_CN', 'zh_TW', 'ja'
   themeColor: {
     hue: 300, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
@@ -63,6 +63,11 @@ export const profileConfig: ProfileConfig = {
       // You will need to install the corresponding icon set if it's not already included
       // `pnpm add @iconify-json/<icon-set-name>`
       url: 'https://app.hackthebox.com/users/1735574',
+    },
+    {
+      name: 'Telegream',
+      icon: 'fa6-brands:telegram', // Visit https://icones.js.org/ for icon codes
+      url: 'https://t.me/+o6sphITviFg0YWI1',
     },
   ],
 }
