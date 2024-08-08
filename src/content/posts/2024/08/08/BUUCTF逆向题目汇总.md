@@ -1,5 +1,5 @@
 ---
-title: 2024/08/08/BUUCTF逆向题目汇总
+title: BUUCTF逆向题目汇总
 published: 2024-08-08
 description: ''
 image: ''
